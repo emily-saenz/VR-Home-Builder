@@ -1,4 +1,4 @@
 # VR-Home-Builder
-Senior Design Project for best team at TAMUK
+Senior Design Project for Secretary VR at TAMUK
 
 (insert readme info here)
